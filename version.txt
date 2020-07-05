@@ -1,0 +1,6 @@
+Version 1.1:
+-Fix Performance issue in Output Text Area when running multiple testing
+-Output Text Area now reset/clear every time when it is start
+
+Version 1.0:
+-Add GUI
